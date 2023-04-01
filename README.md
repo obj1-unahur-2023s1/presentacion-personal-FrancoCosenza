@@ -1,4 +1,4 @@
-![imagen](./assets/imgg.png)
+<img src="./assets/imgg.png" alt="imagen" height="500">
 
 
 # Programación - Franco Cosenza.
