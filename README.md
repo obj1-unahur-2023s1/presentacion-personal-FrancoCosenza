@@ -1,7 +1,7 @@
 <img src="./assets/imgg.png" alt="imagen" height="500">
 
 
-# Programación - Franco Cosenza.
+# Presentación - Franco Cosenza.
 
 Hola! Soy Franco, tengo 26 años y vivo en Hurlingham. Curso Informática desde el 2021 y estoy metiéndome en el rubro de Data Analytics.
 
